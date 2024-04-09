@@ -1,0 +1,3 @@
+alias c="clear"
+alias kubectl="minikube kubectl --"
+alias sync-dotfiles="sudo bash sync-dotfiles.sh"
