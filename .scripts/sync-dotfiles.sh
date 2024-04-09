@@ -1,6 +1,6 @@
 #!/bin/bash
 gitLocation="$HOME/sources/dotfiles/"
-folders=(".config/nvim" ".scripts/" ".zshrc" ".oh-my-zsh" ".aliases")
+folders=(".config/nvim" ".scripts" ".zshrc" ".oh-my-zsh" ".aliases")
 
 for i in ${!folders[@]}; do
 	folder=${folders[$i]}
